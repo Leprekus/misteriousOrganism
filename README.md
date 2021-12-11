@@ -1,6 +1,11 @@
-Personal project that creates a fictional object named pAequor.
+# Mysterious Organism 
 
-The objects return a strand of DNA containing 15 bases. 
+The aim of this project is to create an object object called 'pAequor' and output whether it is likely that it survives. It simulates a real organism and contains a strand of DNA composed of 15 bases which are able to mutate. 
+## Table of Contents
+* technologies[technologies]
+
+### Technologies(technologies):
+  node v16.13.0
 With .mutate() they can change a random base. 
 
 .compareDNA() takes as an argument another object to compare the DNA strand. Returns a string containing the percetage of shared DNA and bases. 
